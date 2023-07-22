@@ -6,3 +6,5 @@ As a henchman on Commander Lambda’s space station, you’re expected to be res
 
 To help yourself get to and from your bunk every day, write a function called solution(src, dest) which takes in two parameters: the source square, on which you start, and the destination square, which is where you need to land to solve the puzzle. The function should return an integer representing the smallest number of moves it will take for you to travel from the source square to the destination square using a chess knight’s moves (that is, two squares in any direction immediately followed by one square perpendicular to that direction, or vice versa, in an “L” shape). Both the source and destination squares will be an integer between 0 and 63.
 
+# Solution here:
+[Don't Get Volunteered Challenge Solution](https://github.com/w-sliman/Google_Foobar_Challenge_Dont_Get_Volunteered/blob/main/Don't_Get_Volunteered_Challenge_Solution.py)
