@@ -62,10 +62,4 @@ def solution(src, dest):
 
 
 test=solution(0,63)
-#i=0 
-#test=[]          
-#while i<=63:
-#    test.append(solution(0,i))
-#    i+=1
-
 print(test)
